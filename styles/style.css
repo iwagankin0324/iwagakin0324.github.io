@@ -27,7 +27,7 @@ footer {
     color: var(--main);
     font-weight: 200;
     font-size: 14px;
-    background-color: black;
+    /* background-color: black; */
 }
 
 main { 
